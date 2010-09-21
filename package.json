@@ -1,0 +1,10 @@
+{
+    "name": "ringo-signpost",
+    "version": "0.1",
+    "description": "Signpost middleware wrapper",
+    "contributors": [],
+    "jars": [
+        "jars/signpost-core.jar",
+        "jars/signpost-jetty7.jar",
+    ]
+}
