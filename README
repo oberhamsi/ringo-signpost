@@ -1,0 +1,10 @@
+# Ringo Signpost
+
+Wrapper around Signpost.
+
+"Signpost is the easy and intuitive solution for signing HTTP messages on the Java platform in conformance with the OAuth Core 1.0a standard."
+
+http://code.google.com/p/oauth-signpost/
+
+## SignPost Jetty 7
+You can't drop in any signpost build. Currently signpost-jetty7.jar is built from this fork http://github.com/oberhamsi/signpost.

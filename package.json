@@ -1,8 +1,8 @@
 {
     "name": "ringo-signpost",
     "version": "0.1",
-    "description": "Signpost middleware wrapper",
-    "contributors": [],
+    "description": "Signpost Lib wrapped for Ringo http://code.google.com/p/oauth-signpost/",
+    "author": "Simon Oberhammer <simon@nekapuzer.at>",
     "jars": [
         "jars/signpost-core.jar",
         "jars/signpost-jetty7.jar",
